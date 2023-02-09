@@ -10,5 +10,5 @@ Para que esse Script-funcione é necessário:
 <li>Sistemas operacionais baseados em Debian</li>
 <li>Interpretador de Comandos (Bash) instalado</li>
 <li>permitir execução do arquivo como programa</li> 
-<li>Linguagem do Sistema Operacional configurada pata Pt/Br</li>
+<li>Linguagem do Sistema Operacional configurada para Pt/Br</li>
 </ul>
